@@ -21,7 +21,7 @@ export default function About() {
 
         <Reveal delay={150}>
           <img
-            src="/images/about/about.jpg"
+            src="/images/about/about.webp"
             alt="FIT TIME gym"
             loading="lazy"
             className="aspect-4/3 w-full rounded-lg bg-card object-cover"

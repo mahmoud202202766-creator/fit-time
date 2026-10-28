@@ -8,18 +8,20 @@ export default function Hero() {
     <section
       id="home"
       className="relative flex min-h-[90vh] items-center bg-card bg-cover bg-center pt-16"
-      style={{ backgroundImage: "url('/images/hero/hero.jpg')" }}
+      style={{ backgroundImage: "url('/images/hero/hero.webp')" }}
     >
-      {/* overlay */}
-      <div className="absolute inset-0 bg-linear-to-t from-bg via-bg/60 to-black/50" />
+     
+      <div className="absolute inset-0 bg-linear-to-t from-bg via-bg/70 to-black/70" />
 
       <div className="relative mx-auto w-full max-w-6xl px-4">
-        <h1 className="text-4xl font-extrabold uppercase leading-tight md:text-6xl">
+        <h1 className="text-3xl font-extrabold uppercase leading-tight sm:text-4xl md:text-6xl">
           {t("hero.title1")} <br />
           {t("hero.title2")} <br />
           <span className="text-accent">{t("hero.title3")}</span>
         </h1>
-        <p className="mt-4 max-w-md text-white/80">{t("hero.subtitle")}</p>
+        <p className="mt-4 max-w-md text-sm text-white/80 sm:text-base">
+          {t("hero.subtitle")}
+        </p>
         <Button
           className="mt-8"
           onClick={() =>
