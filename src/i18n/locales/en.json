@@ -58,5 +58,20 @@
     "Developing an individualized nutrition program",
     "Bonus and loyalty system"
   ]
+},"instagram": {
+  "label": "Explore",
+  "title1": "FIT TIME moments on",
+  "title2": "Instagram",
+  "text": "Join our Instagram community to stay up to date on all club news and be inspired by new fitness ideas every day!",
+  "cta": "Visit Instagram to see more"
+},
+"reviews": {
+  "label": "Reviews",
+  "title": "Your experiences",
+  "items": [
+    { "name": "Ava Martinez", "text": "I like the atmosphere of the club: spacious halls, cleanliness and excellent organization of classes." },
+    { "name": "Olivia Brown", "text": "It has modern equipment and a variety of group classes that help you keep in shape." },
+    { "name": "Alexander Harris", "text": "The club has a friendly atmosphere where each member of the team stimulates and inspires others." }
+  ]
 }
 }

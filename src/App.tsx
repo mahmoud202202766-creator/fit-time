@@ -4,7 +4,8 @@ import WhyChooseUs from "./components/sections/WhyChooseUs";
 import About from "./components/sections/About";
 import Team from "./components/sections/Team";
 import Pricing from "./components/sections/Pricing";
-
+import Instagram from "./components/sections/Instagram";
+import Reviews from "./components/sections/Reviews";
 export default function App() {
   return (
     <>
@@ -14,7 +15,9 @@ export default function App() {
         <WhyChooseUs />
         <About />
         <Team />
-        <Pricing/>
+        <Pricing />
+        <Instagram />
+        <Reviews />
       </main>
     </>
   );
