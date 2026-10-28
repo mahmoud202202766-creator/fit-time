@@ -32,4 +32,16 @@
   "p1": "FIT TIME is a state-of-the-art space where your health is our first priority. We offer the perfect environment for your fitness experience, combining innovative technology, highly qualified trainers and a variety of programs to help you achieve your goals.",
   "p2": "Welcome to our club, where every member is part of our family!"
 }
+,"team": {
+  "label": "Our team of trainers",
+  "title": "Professional team",
+  "items": [
+  { "name": "William Jones", "role": "Head coach" },
+  { "name": "Daniel Smith", "role": "Head coach" },
+  { "name": "James Harris", "role": "Coach" },
+  { "name": "Michael Miller", "role": "Coach" },
+  { "name": "Lucas Anderson", "role": "Coach" },
+  { "name": "Ryan Garcia", "role": "Coach" }
+]
+}
 }
