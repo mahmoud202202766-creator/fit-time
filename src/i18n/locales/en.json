@@ -14,4 +14,22 @@
     "subtitle": "Ready to overcome yourself? Start working today!",
     "cta": "GET STARTED"
   }
+  ,
+  "why": {
+  "label": "Our advantages",
+  "title": "Why choose us",
+  "learnMore": "Learn more",
+  "items": [
+    { "title": "Training variety", "text": "You can choose a program according to your goals." },
+    { "title": "Personal programs", "text": "Our trainers will create programs tailored to your goals and body." },
+    { "title": "Modern equipment", "text": "The club has equipment from world leaders for safe workouts." }
+  ]
+},
+"about": {
+  "label": "About us",
+  "title1": "Your path to",
+  "title2": "health and energy",
+  "p1": "FIT TIME is a state-of-the-art space where your health is our first priority. We offer the perfect environment for your fitness experience, combining innovative technology, highly qualified trainers and a variety of programs to help you achieve your goals.",
+  "p2": "Welcome to our club, where every member is part of our family!"
+}
 }
