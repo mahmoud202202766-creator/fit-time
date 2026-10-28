@@ -3,6 +3,7 @@ import Hero from "./components/sections/Hero";
 import WhyChooseUs from "./components/sections/WhyChooseUs";
 import About from "./components/sections/About";
 import Team from "./components/sections/Team";
+import Pricing from "./components/sections/Pricing";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
         <WhyChooseUs />
         <About />
         <Team />
+        <Pricing/>
       </main>
     </>
   );

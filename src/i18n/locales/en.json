@@ -44,4 +44,19 @@
   { "name": "Ryan Garcia", "role": "Coach" }
 ]
 }
+,
+"pricing": {
+  "label": "Our pricing",
+  "title": "Pricing table",
+  "perMonth": "/mth",
+  "cta": "Get started",
+  "plans": ["Standard", "Premium", "Advance"],
+  "features": [
+    "Full access to all areas and equipment in the clubhouse",
+    "Personal trainer and individual training program",
+    "Discount for additional services",
+    "Developing an individualized nutrition program",
+    "Bonus and loyalty system"
+  ]
+}
 }
