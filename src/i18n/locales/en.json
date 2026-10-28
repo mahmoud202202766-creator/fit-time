@@ -73,5 +73,29 @@
     { "name": "Olivia Brown", "text": "It has modern equipment and a variety of group classes that help you keep in shape." },
     { "name": "Alexander Harris", "text": "The club has a friendly atmosphere where each member of the team stimulates and inspires others." }
   ]
+},"contact": {
+  "label": "Our contacts",
+  "title": "Contact us",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "email": "E-mail address",
+  "phone": "Phone",
+  "message": "Message",
+  "trial": "I want a free trial lesson",
+  "send": "Send",
+  "sending": "Sending...",
+  "success": "Thank you! We will contact you soon.",
+  "errors": {
+    "required": "This field is required",
+    "email": "Enter a valid email",
+    "phone": "Enter a valid phone number"
+  }
+},
+"footer": {
+  "tagline": "Climb higher with FIT TIME club. Get ready for new heights!",
+  "about": "About",
+  "services": "Services",
+  "support": "Support",
+  "rights": "All rights reserved."
 }
 }
