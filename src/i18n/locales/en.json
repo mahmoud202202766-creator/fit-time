@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "team": "Team",
+    "pricing": "Rate plan",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title1": "DISCOVER NEW",
+    "title2": "HORIZONS FOR",
+    "title3": "YOUR BODY",
+    "subtitle": "Ready to overcome yourself? Start working today!",
+    "cta": "GET STARTED"
+  }
+}
